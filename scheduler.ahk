@@ -1,0 +1,1 @@
+; scheduler.ahk — timers + geolocation (stub)

@@ -1,0 +1,1 @@
+; modes.ahk — gamma application (stub)

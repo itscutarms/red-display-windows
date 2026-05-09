@@ -1,0 +1,1 @@
+; persistence.ahk — periodic re-apply (stub)

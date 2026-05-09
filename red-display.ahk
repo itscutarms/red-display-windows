@@ -1,0 +1,1 @@
+; red-display.ahk — entry point (stub)

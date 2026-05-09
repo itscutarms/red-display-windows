@@ -1,0 +1,1 @@
+; tests/run.ahk — assert harness for sun.ahk (stub)

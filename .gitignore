@@ -1,0 +1,7 @@
+# Windows runtime artifacts
+Thumbs.db
+desktop.ini
+
+# Local cache (the script writes to %LOCALAPPDATA% but be safe)
+location.json
+*.log
